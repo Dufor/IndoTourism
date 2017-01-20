@@ -1,0 +1,225 @@
+* {
+	color: #717171;	
+}
+
+/* header */
+.header {
+	background: #ffffff;
+	height: 67px;
+	width: 1280px;
+	margin: 0 auto;
+}
+
+.header-container {
+	max-width: 975px;
+	margin: 0 auto;
+	height: 100%;
+}
+
+.logo {
+	vertical-align: middle;
+	display: inline-block;
+	height: 100%;
+	font-size: 36px;
+	line-height: 1.9em;
+	font-family: "SegoeWP", sans-serif;
+}
+
+.indo {
+	color: #1298dd;
+	font-weight: bold;
+}
+
+.tourism {
+	color: #8d8d8d;
+	font-weight: 100;
+}
+
+.menu {
+	height: 100%;
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+.menu li {
+	padding: 10px;
+	display: inline-block;
+	list-style: none;
+}
+
+.menu ul {
+	padding: 0;
+}
+
+.menu a{
+	text-decoration: none;
+	color: #717171;	
+	font-size: 18px;
+}
+
+.highlight a{
+	color: white;
+	border-radius: 5px;
+	border: #1784d1 solid 1px;
+	padding: 10px;
+	background: linear-gradient(to bottom, #37b3f8 0%,#1f84e7 100%);
+
+}
+
+
+/* main */
+
+main {
+	background-color: #ececec;
+	background-image: url(img/main-img.jpg);
+	background-repeat: no-repeat; 
+	background-position: top center;
+	width: 1280px;
+	text-align: center;
+	padding-top: 175px;
+	margin: 0 auto;
+}
+
+.phrase {
+	color: white;
+	margin-bottom: 75px;
+}
+
+.phrase p {
+	color: white ;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 42px; 
+	text-shadow:  0px 0px 5px rgba(0,0,0,0.3);
+	line-height: 17%;
+}
+
+.phrase-2 {
+	font-weight: 300;
+}
+
+.button-ask {
+	margin: 0 auto;
+	height: 58px;
+	width: 274px;
+	background: linear-gradient(to bottom, #6dd258 0%,#35ae22 100%);
+	border-radius: 4px;
+	box-shadow: 0 0 0 6px rgba(0,0,0,0.12);
+	margin-bottom: 69px;
+}
+.button-ask a {
+	color: white;
+	font-size: 34px;
+	font-weight: bold;
+	text-decoration: none;
+	line-height: 58px;
+	padding: 0 51px;	
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
+
+.places {
+	width: 470px;
+	height: 240px;
+	margin: 0 auto;
+	background: white;
+	border-radius: 5px;
+	text-align: center;
+	margin-bottom: 67px;
+	padding-top: 5px;
+	box-shadow: 0px 7px 0px #51c03d;
+}
+
+.places-1 {
+	text-align: center;
+	font-size: 22px;
+}
+
+.places-2,
+.places-3 {
+	display: inline-block;
+	font-size: 14px;
+	margin-bottom: 8px;	
+}
+
+.title {
+	margin: 0 auto 10px auto;
+	text-align: left;
+}
+
+.item {
+	display: inline-block;
+	margin-right: 4px;
+}
+
+.list-link {
+	text-decoration: none;
+}
+
+.places43 {
+	margin: 52px auto;
+}
+
+.places43-1,
+.places43-2 {
+	margin: 0;
+	line-height: 34px;
+	font-size: 26px;
+	font-weight: 100;
+}
+
+.places43-2 {
+	font-size: 21px;
+}
+
+.list {
+	text-align: center;
+}
+
+.list-link {
+	display: inline-block;
+	margin: 0 20px;
+}
+
+.list-img {
+	width: 133px;
+	height: 133px;
+	border-radius: 50%;
+	background-color: white;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.list-img-1 {
+	background-image: url(img/shape-1.png);
+}
+
+.list-img-2 {
+	background-image: url(img/shape-2.png);
+}
+
+.list-img-3 {
+	background-image: url(img/shape-3.png);
+}
+
+.list-img-4 {
+	background-image: url(img/shape-4.png);
+}
+
+.list-title {
+	font-size: 20px;
+	line-height: 34px;
+}
+
+/*footer*/
+
+.footer {
+	width: 1280px;
+	background: #414141;
+	padding: 8.5px 0;
+	margin: 0 auto;
+}
+.author {
+	text-align: center;
+	font-size: 14px;
+}
