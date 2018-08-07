@@ -16,3 +16,5 @@
 8. Кроссбраузерность.
 
 Макет взят из рассылки HTML Academy."#IndoTourism" 
+
+https://dufor.github.io/IndoTourism/
